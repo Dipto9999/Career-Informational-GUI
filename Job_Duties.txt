@@ -1,0 +1,18 @@
+Web designers and developers are often given many of the following duties:
+
+	-> They speak with clients and customers to receive comments on what requirements the Web site 
+	   needs.
+	-> They create storyboards or mock-ups (model of devices which serve for instructional, 	
+            teaching, and/or demonstrational purposes; may serve as prototypes).
+	-> They create and develop architecture for the Web site and verify hardware and software 
+	   elements that are required.
+	-> They determine and organize information to be included on the site and source it as well.
+	-> They design the layout and appearance of the site, as well as its flow of information.
+	-> They use various software, including database animation and graphics, to create content for 
+	   the site. This should occupy the site relatively well and efficiently.
+	-> They plan, design, write, edit, combine, and test out the code for the site.
+	-> They perform tests as well as security and quality controls (i.e. checking for broken links, 
+	   browser incompatibilities).
+	-> They might lead teams to develop and create the graphics, contents, capacity, and user 
+            interactivity of the site.
+	-> They might examine and assess multiple media software products that are interactive.

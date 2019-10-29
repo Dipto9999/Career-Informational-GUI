@@ -1,0 +1,18 @@
+Employment requirements:
+
+	-> One must have a bachelor's degree, preferably in computer science, communications, or 
+	    business. Completion of a college program in computer science, graphic arts, 
+            business, or website design would suffice as well in many cases.
+	-> It is required, if not preferred, for one to have experience as a computer programmer or 
+            graphic designer.
+
+
+Web designers and developers should be familiar with the following:
+
+	-> One should have a certain degree of knowledge based on CSS, HTML, SEO, JavaScript, Ajax, 
+            Flash, MySQL DataBase, and either PHP, ASP, Java, Perl, or C++.
+	-> One should have an understanding of the web server their site is running on and how it 
+            assists solving problems and allows the site to run better.
+	-> One should be knowledgeable of the elements of design and design principles to create a site 
+            more appealing to customers.
+

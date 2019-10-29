@@ -1,0 +1,22 @@
+	Website designers and developers are in charge of designing, 
+developing, and creating sites on the Internet or on a Intranet. They 
+carry this out by primarily conducting research of Internet and Intranet sites.
+ 
+	Web designers are more focused on how the site appears to the 
+customer (in the case of an Intranet, it may be workers external to the organization, 
+customers, or other employees) and how they can interact with its features. They 
+need to be aware of the appeal of their site in terms of usability and convenience, 
+but also general display which is able to emphasize and contrast colours and images on the site. 
+They want the site to be as easily used and accessible as possible so customers return to their site.
+
+	Web developers are more concerned on how the site functions than how it appears. 
+They want the customer (in the case of an Intranet, it may be workers external to the 
+organization, customer, or other employee) to come to their site and finish the task they
+aimed to complete. They can keep sites running and working efficiently and 
+are highly knowledgeable about web forms (also referred to as HTML forms) and are 
+described to be the back-end of a company's website.
+
+
+
+
+

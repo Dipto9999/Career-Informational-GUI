@@ -1,0 +1,28 @@
+	Web Design - LCA.C0 is a 48 week long diploma program at CDI college, 
+with campuses across Quebec. It purposes to train professionals for jobs as 
+web page designers, website architects, web developers, website developers, 
+web programmers, web designers, or webmasters.
+	There is a technical component in the program where students obtain the 
+knowledge and skills needed in web programming, such as training in uses of several 
+programs. There is also a creative component which allows students to develop and 
+acquire artistic ability through learning and making use of colour, image processing, and 
+principles of design.
+
+Entrance requirements:
+	-> One must have a high school diploma.
+	-> One must successfully complete and pass the admission test.
+
+Courses in the program:
+	->Fundamental Principles of Colour and Design	->Audio and Video Techniques
+	->Image processing				->Web Design and Development II
+	->Computer Illustration			->Integration Project
+	->Web Design and Development I			->Database Fundamentals
+	->User Interface Design			->Script Language I
+	->Advanced Image Processing			->Data Processing Technologies
+	->Interactive Content I			->Development of a Dynamic Website
+	->Typography					->Server-Side Technologies
+	->Layout Fundamentals for Websites		->Script Language II
+	->Fundamentals of Programming			->Marketing Concepts for the Web
+	->Digital Photography				->Portfolio
+	->Interactive Content II
+

@@ -1,0 +1,30 @@
+	Web Design, Development and Maintenance is a certificate 
+program at Humber College, located in Ontario, that teaches students the 
+process of creating website and web applications. Websites of dynamic build will be
+created by using the most recent versions of tools and applications, such as 
+Dreamweaver, Photoshop, etc. This program teaches HTML5, CSS, PHP, MySQ, JavaScript, 
+and jQuery. Industry standards are taught to expand the students' understanding 
+of programming and design skills.   
+
+Additional costs for this program can go up to $500 due to purchasing textbooks and web hosting
+services.
+
+Entrance requirements:
+	->One should have knowledge through experience or education in a related background
+	->One should have above-average computer literacy.
+	->One should have experience working on either Windows Operating System or Mac OS.
+	->one should have somewhat knowledge of HTML since an online assessment is 
+	  undergone in the interview process.
+	->One should have digital graphic design knowledge and experience (i.e. familiar with 
+	  Adobe software).
+	->One will have to complete an online skills test/assessment and interview.
+
+Courses in the program:
+	->Advanced Web Applications          ->Photoshop for the Web 
+	->Advanced Web Design		     ->Portfolio Development
+	->Building Dynamic Web Applications  ->Project Management for the Web
+	->Employment Skills for Multimedia   ->Web Composite: Level 1
+	->Flash Techniques                   ->Web Composite: Level 2
+	->Illustrator for the Web	     ->Web Media
+	->Web Programming Fundamentals
+ 	

@@ -1,0 +1,14 @@
+	Web designers and developers can be given jobs by a variety of employers, which may be in both 
+public or private sectors. For example, they can be given jobs in advertising agencies, 
+in software development firms, in information technology consulting firms, by school boards, 
+by charities, as well as in information technology companies. 
+	IBM, a large technology corporation, has a branch in Markham, Ontario,
+with open positions for web developers. In Calgary, Alberta, which is rapidly developing into
+a metropolitan area, there is a position available for a Full Stack Web Developer at
+Tuff Decisions Inc. In Winnipeg, Manitoba, the Tipping Canoe is offering to hire a PHP Developer.
+These are examples of employment in private sectors. 
+	Currently, there aren't any advertisements on the Government of Canada site, 
+for web developer or web designer jobs in public sectors, within the nation. 
+triOS college has a branch in Missisauga, Ontario that's currently willing 
+to hire a full-time web developer.
+
